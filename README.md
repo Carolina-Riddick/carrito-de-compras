@@ -44,3 +44,4 @@ If we refresh the page the purchase is kept intact by the use of `localStorage`.
 
 
 ☞ If you are interested I leave you the link of my notes and information that may be useful to you or someone you know. I also leave links of interest from other communities so we can help other!
+☞ ☞ ☞ LINK ➡️ https://www.notion.so/carolina-riddick/Vainilla-JavaScript-dea9ebf7b68b4c1bb691e437ec741a38
